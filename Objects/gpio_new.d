@@ -1,0 +1,13 @@
+.\objects\gpio_new.o: gpio_new.c
+.\objects\gpio_new.o: gpio_new.h
+.\objects\gpio_new.o: stm32l476xx.h
+.\objects\gpio_new.o: C:\Users\vinit\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h
+.\objects\gpio_new.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gpio_new.o: C:\Users\vinit\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h
+.\objects\gpio_new.o: C:\Users\vinit\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\gpio_new.o: C:\Users\vinit\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\gpio_new.o: C:\Users\vinit\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\mpu_armv7.h
+.\objects\gpio_new.o: C:\Users\vinit\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\system_stm32l4xx.h
+.\objects\gpio_new.o: UART.h
+.\objects\gpio_new.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\gpio_new.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
